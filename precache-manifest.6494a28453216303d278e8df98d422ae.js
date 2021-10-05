@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "1bcbfb66505bad95a8ea",
+    "revision": "5524f90c7feedd9260ea",
     "url": "/Urdu_Addition_CountingObjects/static/css/main.82a87590.chunk.css"
   },
   {
-    "revision": "1bcbfb66505bad95a8ea",
-    "url": "/Urdu_Addition_CountingObjects/static/js/main.457740e3.chunk.js"
+    "revision": "5524f90c7feedd9260ea",
+    "url": "/Urdu_Addition_CountingObjects/static/js/main.205b180f.chunk.js"
   },
   {
-    "revision": "b4e5506c4b34234dd76f",
-    "url": "/Urdu_Addition_CountingObjects/static/js/runtime~main.bc3f6616.js"
+    "revision": "60c8f34e524e3cb49a7f",
+    "url": "/Urdu_Addition_CountingObjects/static/js/runtime~main.be11c0c1.js"
   },
   {
-    "revision": "893e04138f7175cf0ded",
+    "revision": "f5f8a7b5c25864c3e2db",
     "url": "/Urdu_Addition_CountingObjects/static/css/2.96d79ed8.chunk.css"
   },
   {
-    "revision": "893e04138f7175cf0ded",
-    "url": "/Urdu_Addition_CountingObjects/static/js/2.1f93acba.chunk.js"
+    "revision": "f5f8a7b5c25864c3e2db",
+    "url": "/Urdu_Addition_CountingObjects/static/js/2.ae83c6f2.chunk.js"
   },
   {
-    "revision": "f0fad205a64bf114ea96",
-    "url": "/Urdu_Addition_CountingObjects/static/js/3.1adaacc5.chunk.js"
+    "revision": "cb2803db2e4bd086feba",
+    "url": "/Urdu_Addition_CountingObjects/static/js/3.efcad361.chunk.js"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -72,6 +72,14 @@ self.__precacheManifest = [
     "url": "/Urdu_Addition_CountingObjects/static/media/rooster.74562e5d.png"
   },
   {
+    "revision": "7360a269fa89ec8922a9fb9354820523",
+    "url": "/Urdu_Addition_CountingObjects/static/media/sound.7360a269.png"
+  },
+  {
+    "revision": "6d3e6e31968de6abd43c75375d97964a",
+    "url": "/Urdu_Addition_CountingObjects/static/media/ca.6d3e6e31.mp3"
+  },
+  {
     "revision": "cabc22c6e80bc043c10b098b6b8854bb",
     "url": "/Urdu_Addition_CountingObjects/static/media/bowl.cabc22c6.png"
   },
@@ -96,7 +104,15 @@ self.__precacheManifest = [
     "url": "/Urdu_Addition_CountingObjects/static/media/background2.b512cd28.gif"
   },
   {
-    "revision": "c42861584d053359d33e5b6b41862f22",
+    "revision": "a0d6b13874a29393b0f8252f2adb5fa7",
+    "url": "/Urdu_Addition_CountingObjects/static/media/grocerySound.a0d6b138.mp3"
+  },
+  {
+    "revision": "f02ac89a44b28acd80cb6b0399adbf8f",
+    "url": "/Urdu_Addition_CountingObjects/static/media/mute.f02ac89a.png"
+  },
+  {
+    "revision": "31a25820c1802ca040ac7d8ddee428ad",
     "url": "/Urdu_Addition_CountingObjects/index.html"
   }
 ];
