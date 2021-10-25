@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "946ca3f94716ccacb51b",
+    "revision": "7206856b17b6ac998d3e",
     "url": "/Urdu_Addition_CountingObjects/static/css/main.7fdcd101.chunk.css"
   },
   {
-    "revision": "946ca3f94716ccacb51b",
-    "url": "/Urdu_Addition_CountingObjects/static/js/main.4a15d8de.chunk.js"
+    "revision": "7206856b17b6ac998d3e",
+    "url": "/Urdu_Addition_CountingObjects/static/js/main.08db610b.chunk.js"
   },
   {
-    "revision": "2ccccae42cb3ea1cf140",
-    "url": "/Urdu_Addition_CountingObjects/static/js/runtime~main.790810f6.js"
+    "revision": "a7fdce2d4336c6322b53",
+    "url": "/Urdu_Addition_CountingObjects/static/js/runtime~main.17a29dfe.js"
   },
   {
-    "revision": "7ad6f85358093bca69f8",
+    "revision": "cf5abb8c7b01ec6fd729",
     "url": "/Urdu_Addition_CountingObjects/static/css/2.96d79ed8.chunk.css"
   },
   {
-    "revision": "7ad6f85358093bca69f8",
-    "url": "/Urdu_Addition_CountingObjects/static/js/2.d9da27ac.chunk.js"
+    "revision": "cf5abb8c7b01ec6fd729",
+    "url": "/Urdu_Addition_CountingObjects/static/js/2.cd947c47.chunk.js"
   },
   {
-    "revision": "76deaddc7353ac5a7622",
-    "url": "/Urdu_Addition_CountingObjects/static/js/3.9d4a091a.chunk.js"
+    "revision": "4a73087835b5ac318af3",
+    "url": "/Urdu_Addition_CountingObjects/static/js/3.0160d469.chunk.js"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/Urdu_Addition_CountingObjects/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "759b6db421a3205dedd811829c324f9b",
+    "revision": "9e5d028f324eeedc4a2704a5aa35059f",
     "url": "/Urdu_Addition_CountingObjects/index.html"
   }
 ];
